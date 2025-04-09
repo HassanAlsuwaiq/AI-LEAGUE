@@ -1,0 +1,9 @@
+Project Overview
+This project aims to improve crowd management in stadiums and optimize parking space usage by deploying AI models for detecting crowd density and parking space availability. 
+The Crowd Detection Model helps analyze crowd flow in real-time, while the Parking Detection Model identifies empty and occupied parking spots.
+
+
+Model 1: Crowd Detection
+Description
+The Crowd Detection Model detects the presence of people in a given area and calculates crowd density.
+This model is crucial for monitoring stadium crowd movements and managing crowd flow for safety and efficiency.
